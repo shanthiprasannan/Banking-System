@@ -1,6 +1,12 @@
-# Banking-System
+Write a python program to replicate a Banking system. The following features are mandatory:
+1.Account login
+2. Amount Depositing
+3. Amount Withdrawal# Banking-System
+
 import random
+
 import sys
+
 from AccDetails import Account
 
 class Bank:
@@ -71,6 +77,9 @@ class Bank:
 
 B1= Bank()
 B1.__init__()
+
+
+
 
 
 
