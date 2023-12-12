@@ -3,12 +3,10 @@ Write a python program to replicate a Banking system. The following features are
 2. Amount Depositing
 3. Amount Withdrawal# Banking-System
 
+
 import random
-
 import sys
-
 from AccDetails import Account
-
 class Bank:
     def __init__(self):
         a=input("Enter your user name: ")
